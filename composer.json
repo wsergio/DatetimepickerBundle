@@ -1,6 +1,6 @@
 {
     "name": "wsergio/datetimepicker-bundle",
-    "version": "0.3.1",
+    "version": "0.3.2",
     "description": "Symfony bundle for Bootstrap DateTime picker",
     "keywords": ["symfony", "bootstrap", "bundle", "picker", "datepicker", "timepicker"],
     "type": "symfony-bundle",
