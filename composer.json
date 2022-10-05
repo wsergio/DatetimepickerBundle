@@ -1,0 +1,24 @@
+{
+    "name": "wsergio/datetimepicker-bundle",
+    "version": "0.3.2",
+    "description": "Symfony bundle for Bootstrap DateTime picker",
+    "keywords": ["symfony", "bootstrap", "bundle", "picker", "datepicker", "timepicker"],
+    "type": "symfony-bundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Stephane Collot"
+        }
+    ],
+    "require": {
+        "php": ">=5.3",
+        "symfony/framework-bundle": "3.*",
+        "symfony/symfony": "3.*"
+    },
+    "autoload":     {
+        "psr-0": {
+            "SC\\DatetimepickerBundle": ""
+        }
+    },
+    "target-dir": "SC/DatetimepickerBundle"
+}
